@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-cli
 Version  : 1.6
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-cli/1.6/plexus-cli-1.6.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-cli/1.6/plexus-cli-1.6.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-cli/1.6/plexus-cli-1.6.pom
